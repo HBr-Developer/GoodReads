@@ -1,6 +1,8 @@
 # GoodReads
-Library Store
+GoodReads
+
 MONGOODB - EXPRESS JS - REACT JS - NODE JS
+
 les interfaces de l'application web :
 
 ![This is an image](https://user-images.githubusercontent.com/80393682/222519065-411589a5-6a01-4a50-86d3-cb83cc571b8a.png)
