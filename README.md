@@ -5,13 +5,15 @@ les interfaces de l'application web :
 
 ![This is an image](https://user-images.githubusercontent.com/80393682/222519065-411589a5-6a01-4a50-86d3-cb83cc571b8a.png)
 
-sign-in interface :
-![This is an image](https://user-images.githubusercontent.com/80393682/222519513-f5067106-74aa-4a22-8bcc-c49ae65ab901.png)
-
-
 
 sign-up interface :
-![SIGN IN](https://user-images.githubusercontent.com/80393682/222520310-e41429ca-542b-4a23-9941-a5c1ce01d5b4.png)
+
+![SIGN UP](https://user-images.githubusercontent.com/80393682/222523751-e3349b6a-f246-4d45-91ac-ec83458375f2.png)
+
+
+sign-in interface :
+![SIGN IN](https://user-images.githubusercontent.com/80393682/222523726-a188d0d3-35e9-43ae-81df-4c50166306f4.png)
+
 
 
 
