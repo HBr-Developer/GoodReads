@@ -36,12 +36,15 @@ cart page:
 
 
 admin interface:
-![Dashboard](https://user-images.githubusercontent.com/80393682/222520672-f5753dc9-eec3-4888-af6e-713e0f8effa7.png)
+![Dashboard](https://user-images.githubusercontent.com/80393682/222524062-5db5181c-f75e-461e-a83e-2d9b02d86c28.png)
+
 
 
 add categoory
+
 ![categorz](https://user-images.githubusercontent.com/80393682/222520832-b43295fe-582a-480a-a904-9661bd12f041.jpg)
 
 
 add products:
+
 ![AjouProd](https://user-images.githubusercontent.com/80393682/222521003-492f6372-8f85-4627-a321-b838dcf4f68a.jpg)
